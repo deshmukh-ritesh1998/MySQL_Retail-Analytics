@@ -75,7 +75,7 @@ This project reflects real business challenges where data analysts must:
 
 # Let’s Connect
 
-I'm always eager to discuss data analytics and opportunities to contribute to impactful business insights.
+I'm always eager to discuss about data analytics and opportunities to contribute to impactful business insights.
 
  **Ritesh Deshmukh**  
  Pune, India | MBA in Data Science – Amity University  
